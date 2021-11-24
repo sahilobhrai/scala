@@ -1,1 +1,1 @@
-# scala_assignments
+# scala
